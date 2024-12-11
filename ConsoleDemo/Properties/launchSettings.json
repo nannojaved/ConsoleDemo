@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleDemo": {
+      "commandName": "Project",
+      "commandLineArgs": "2IT BHV IM"
+    }
+  }
+}
